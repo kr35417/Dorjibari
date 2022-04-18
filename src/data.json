@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name" : "Shart-1",
+        "price" : 100,
+        "discount" : 10,
+        "rating": 4.5,
+        "image" : "images/c61.jpg",
+        "available_color" : ["red","blue","green"],
+        "available_size" : ["s","m","l"],
+        "description" : "This is the first shirt",
+        "category" : "shirt"   
+    },
+    {
+        "id":2,
+        "name" : "Shart-2",
+        "price" : 100,
+        "discount" : 10,
+        "rating": 4.5,
+        "image" : "images/c61.jpg",
+        "available_color" : ["red","blue","green"],
+        "available_size" : ["s","m","l"],
+        "description" : "This is the first shirt",
+        "category" : "shirt"   
+    },
+    {
+        "id":3,
+        "name" : "Shart-3",
+        "price" : 100,
+        "discount" : 10,
+        "rating": 4.5,
+        "image" : "images/c61.jpg",
+        "available_color" : ["red","blue","green"],
+        "available_size" : ["s","m","l"],
+        "description" : "This is the first shirt",
+        "category" : "shirt"   
+    },
+    {
+        "id":4,
+        "name" : "Shart-4",
+        "price" : 100,
+        "discount" : 10,
+        "rating": 4.5,
+        "image" : "images/c61.jpg",
+        "available_color" : ["red","blue","green"],
+        "available_size" : ["s","m","l"],
+        "description" : "This is the first shirt",
+        "category" : "shirt"   
+    }
+]
